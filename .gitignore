@@ -1,0 +1,5 @@
+2express
+2mongodb
+*/node_modules
+*/.env
+*/.env.example
